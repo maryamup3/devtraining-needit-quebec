@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name> NeedItProperties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>maryam.dehghani@up3.co.uk</sys_created_by>
+        <sys_created_on>2021-08-04 11:10:20</sys_created_on>
+        <sys_id>844e3145db39f8109145fbef2996197a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name> NeedItProperties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_844e3145db39f8109145fbef2996197a</sys_update_name>
+        <sys_updated_by>maryam.dehghani@up3.co.uk</sys_updated_by>
+        <sys_updated_on>2021-08-04 11:43:30</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 24pt;"><img style="align: baseline;" title="test" src="innovatelogo.pngx" alt="test3" width="200" height="200" align="baseline" border="" hspace="" vspace="" />this is test</span><img style="border: 120px solid black; vspace: 130px; hspace: 130px; align: baseline;" title="maryam test" src="innovatelogo.pngx" alt="test" width="200" height="200" align="baseline" border="120" hspace="130" vspace="130" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=844e3145db39f8109145fbef2996197a"/>
+</record_update>
